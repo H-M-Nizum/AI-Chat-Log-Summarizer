@@ -1,0 +1,3 @@
+User: Hi, can you tell me about Python?
+AI: Sure! Python is a popular programming language known for
+its readability.
